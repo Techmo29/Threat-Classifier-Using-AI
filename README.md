@@ -36,6 +36,8 @@ A machine learning and natural language processing pipeline for automated cybers
 - [ ] **Logging & Monitoring:** Implement structured JSON logging within the API to trace request execution times and input validation errors.
 
 ---
+## References
+1. https://eprints.hud.ac.uk/id/eprint/24330/6/MohammadPhishing14July2015.pdf
 
 ## Getting Started
 
