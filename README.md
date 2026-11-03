@@ -9,8 +9,8 @@ A machine learning and natural language processing pipeline for automated cybers
 ### Week 1: Data Ingestion, Exploration & Preprocessing
 *Objective: Establish the data pipeline, parse structured/unstructured telemetry, and handle class imbalance.*
 
-- [ ] **Environment Initialization:** Configure Python virtual environment, install core numerical and machine learning packages (`numpy`, `pandas`, `scikit-learn`, `nltk`, `torch`, `transformers`).
-- [ ] **Corpus Acquisition:** Source standardized security datasets (e.g., CICIDS intrusion datasets, MITRE ATT&CK technique descriptions, or parsed Syslog/Windows Event log repositories).
+- [ *] **Environment Initialization:** Configure Python virtual environment, install core numerical and machine learning packages (`numpy`, `pandas`, `scikit-learn`, `nltk`, `torch`, `transformers`).
+- [ *] **Corpus Acquisition:** Source standardized security datasets (e.g., CICIDS intrusion datasets, MITRE ATT&CK technique descriptions, or parsed Syslog/Windows Event log repositories).
 - [ ] **Exploratory Data Analysis (EDA):** Analyze token frequency distributions, sequence lengths, missing features, and class skewness across threat categories (e.g., Exfiltration, Privilege Escalation, Denial of Service).
 - [ ] **Text Preprocessing Pipeline:** Implement lowercasing, punctuation stripping, stop-word filtering, lemmatization, and feature extraction via TF-IDF vectorization or subword tokenization (Byte-Pair Encoding).
 
